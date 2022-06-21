@@ -5,3 +5,15 @@ use touch <filename.filetype> to create any kind of file
 lets see i donot fuk up anymore and get a job
 
 :)
+
+ok
+
+so do check out the screenshot notes for u know cloning repo or connecting
+the remote repo or say connect the local repo with the Github website repo
+
+
+it is something like
+git remote ass origin <url> {literally the url}
+git branch -M main
+git push -u origin main 
+{now I dont know what is -M and -u}
