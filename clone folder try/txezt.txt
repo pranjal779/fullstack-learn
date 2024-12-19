@@ -2,7 +2,6 @@ hello
 use nano <filename.filetype> format to start editing the file in git
 use touch <filename.filetype> to create any kind of file
 
-lets see i donot fuk up anymore and get a job
 
 :)
 
